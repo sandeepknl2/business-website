@@ -1,0 +1,20 @@
+Component Hierarchy
+
+App
+├── Header
+│    └── Navigation
+├── Pages
+│    ├── Home
+│    │    ├── Hero
+│    │    ├── FeatureCard
+│    │    └── Testimonial
+│    ├── Services
+│    ├── Portfolio
+│    │    ├── SearchBar
+│    │    └── PortfolioCard
+│    ├── About
+│    │    └── TeamMember
+│    └── Contact
+│         ├── ContactForm
+│         └── MapEmbed
+└── Footer

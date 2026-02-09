@@ -1,0 +1,26 @@
+TEST CASES
+
+1. Navigation Test
+
+* Click each menu link
+* Expected: Correct page loads
+
+2. Theme Toggle Test
+
+* Click toggle button
+* Expected: Dark/light mode switches
+
+3. Contact Form Test
+
+* Submit empty form
+* Expected: Validation triggered
+
+4. Portfolio Search Test
+
+* Type search text
+* Expected: Items filtered
+
+5. Responsive Test
+
+* Resize browser
+* Expected: Layout adapts
